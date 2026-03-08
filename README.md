@@ -4,7 +4,7 @@
 - 🎓 I graduated from the **University of Minnesota – Twin Cities** with a **Bachelor’s degree in Data Science**.
 - 🤖 I’m interested in **Machine Learning**, **Data Analytics**, **Artificial Intelligence**, and **Data Engineering**.
 - 🧠 I enjoy solving real-world problems using data, building predictive models, and extracting meaningful insights from complex datasets.
-- 🌟 I have a strong foundation in **Python**, with intermediate experience in **Java**, **C**, and **SQL**.
+- 🌟 I have a strong foundation in **Python**, with some experience with **Java**, **C**, and **SQL**.
 - 📊 Experienced with data tools such as **Pandas**, **NumPy**, **Scikit-learn**, and **Jupyter Notebooks**.
 - 🌱 I’m currently focused on expanding my knowledge in **advanced machine learning and large-scale data systems**.
 - 📫 How to reach me - email: tobex099@gmail.com
