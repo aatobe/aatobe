@@ -9,7 +9,7 @@
 - 🌱 I’m currently focused on expanding my knowledge in **advanced machine learning and large-scale data systems**.
 - 📫 How to reach me - email: tobex099@gmail.com
 - 😄 Pronouns: Male
-- ⚡ Fun fact: I have an unhealthy addiction for reading Brandon Sanderson books.
+- ⚡ Fun fact: I have an unhealthy addiction for reading fantasy and sci-fi novels.
 
 <!---
 aatobe/aatobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
