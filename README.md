@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdurahman Tobe
 
 ## About Me
-- 🎓 I graduated from the **University of Minnesota – Twin Cities** with a **Bachelor’s degree in Data Science (IT Infrastructure Track)**.
+- 🎓 I graduated from the **University of Minnesota – Twin Cities** with a **Bachelor’s degree in Data Science**.
 - 🤖 I’m interested in **Machine Learning**, **Data Analytics**, **Artificial Intelligence**, and **Data Engineering**.
 - 🧠 I enjoy solving real-world problems using data, building predictive models, and extracting meaningful insights from complex datasets.
 - 🌟 I have a strong foundation in **Python**, with intermediate experience in **Java**, **C**, and **SQL**.
